@@ -1,0 +1,6 @@
+{
+  "name": "Devrat & Radhika - Royal Wedding Invitation",
+  "description": "An opulent interactive Indian royal wedding invitation card featuring cinematic looping video, ceremony imagery for Haldi, Mehndi, Sangeet, and Shubh Vivah, RSVP, and wedding itinerary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
